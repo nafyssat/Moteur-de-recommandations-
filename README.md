@@ -1,4 +1,4 @@
-# Moteur-de-recommandations-
+# Moteur-de-recommandations ( EN COURS )
 Moteur de recommandations pour l’optimisation du panier client
 
 ## Description
